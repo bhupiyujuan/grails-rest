@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="dell-PC" id="0" name="QuoteControllerTest" package="grails.rest" tests="1" time="4.124" timestamp="2015-02-15T08:23:57">
+      <properties />
+
+      <testcase classname="grails.rest.QuoteControllerTest" name="testsomething" time="4.103" />
+
+      <system-out><![CDATA[--Output from testsomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testsomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
